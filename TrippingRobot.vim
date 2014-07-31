@@ -19,7 +19,7 @@ if exists("syntax_on")
 endif
 
 set t_Co=256
-let g:colors_name = "Test2"
+let g:colors_name = "TrippingRobot"
 
 
 
