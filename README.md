@@ -1,4 +1,4 @@
-TrippinRobot
+TrippingRobot
 ============
 
 vim-colorscheme
