@@ -79,8 +79,7 @@ hi link Float Number
 hi Boolean		ctermfg=77		ctermbg=NONE	cterm=NONE
 hi Constant		ctermfg=131		ctermbg=NONE	cterm=BOLD
 
-" Don't know what parts us Keyword, so magenta for now.
-hi Keyword		ctermfg=14		ctermbg=NONE	cterm=NONE
+hi Keyword		ctermfg=172		ctermbg=NONE	cterm=NONE
 hi PreProc		ctermfg=78		ctermbg=NONE	cterm=NONE
 hi Conditional	ctermfg=136		ctermbg=NONE	cterm=BOLD
 hi Repeat		ctermfg=166		ctermbg=NONE	cterm=BOLD
