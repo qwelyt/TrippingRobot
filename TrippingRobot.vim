@@ -5,12 +5,11 @@
 "   | || |  | | |_) | |_) | | | | | (_| |  _ < (_) | |_) | (_) | |_  "
 "   |_||_|  |_| .__/| .__/|_|_| |_|\__, |_| \_\___/|_.__/ \___/ \__| "
 "             |_|   |_|            |___/                             "
-"																	 "
-" Vim colorscheme													 "
-" By: Chewtoy														 "
-" Available at: https://github.com/qwelyt/TrippingRobot
-"																	 "
-" Support for 256 colour terminal. No GUI.							 "
+"                                                                    "
+" Vim colorscheme                                                    "
+" By: Chewtoy                                                        "
+" Available at: https://github.com/qwelyt/TrippingRobot              "
+" Support for 256 colour terminal. No GUI.                           "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set background=dark
 highlight clear
