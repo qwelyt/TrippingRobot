@@ -9,6 +9,7 @@
 " Vim colorscheme                                                    "
 " By: Chewtoy                                                        "
 " Available at: https://github.com/qwelyt/TrippingRobot              "
+"                                                                    "
 " Support for 256 colour terminal. No GUI.                           "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set background=dark
@@ -28,6 +29,7 @@ hi NonText	ctermfg=36	ctermbg=NONE	cterm=NONE
 
 hi Cursor	ctermfg=0	ctermbg=255	cterm=REVERSE
 hi LineNr	ctermfg=242	ctermbg=NONE	cterm=NONE
+hi CursorLineNr	ctermfg=247	ctermbg=NONE	cterm=BOLD
 
 hi VertSplit	ctermfg=233	ctermbg=233	cterm=NONE
 hi StatusLine	ctermfg=85	ctermbg=233	cterm=NONE
@@ -57,8 +59,8 @@ hi Search	ctermfg=176	ctermbg=53	cterm=UNDERLINE
 
 hi ModeMsg	ctermfg=246	ctermbg=NONE	cterm=BOLD
 
-hi CursorLine	ctermfg=NONE	ctermbg=233	cterm=NONE
-hi CursorColumn	ctermfg=NONE	ctermbg=233	cterm=NONE
+hi CursorLine	ctermfg=NONE	ctermbg=NONE	cterm=NONE
+hi CursorColumn	ctermfg=NONE	ctermbg=NONE	cterm=NONE
 
 hi MathParen	ctermfg=NONE	ctermbg=240	cterm=NONE
 
