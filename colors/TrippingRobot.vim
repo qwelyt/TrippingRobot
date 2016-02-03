@@ -122,3 +122,16 @@ hi link pythonStatement Identifier
 hi pythonBuiltin	ctermfg=42	ctermbg=NONE	cterm=UNDERLINE
 hi pythonOperator	ctermfg=166	ctermbg=NONE	cterm=NONE
 
+" Special for PHP
+hi phpDefine	ctermfg=209 ctermbg=NONE	cterm=BOLD
+"hi phpStringSingle	ctermfg=250 ctermbg=NONE  cterm=NONE
+"hi link	phpStringDouble	phpStringDouble
+hi link phpStringSingle	String
+hi link phpStringDouble	String
+hi phpIdentifier	ctermfg=65	ctermbg=NONE	cterm=NONE
+
+" Special for csv.vim
+hi CSVColumnEven	ctermfg=251	ctermbg=18	cterm=NONE
+hi CSVColumnOdd		ctermfg=251	ctermbg=22	cterm=NONE
+hi CSVColumnHeaderEven	ctermfg=253 ctermbg=52	cterm=BOLD
+hi CSVColumnHeaderOdd	ctermfg=253 ctermbg=52	cterm=BOLD
